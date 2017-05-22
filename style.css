@@ -1,0 +1,48 @@
+<style>
+
+
+body {
+    background: url('5.jpg') no-repeat fixed  center;
+    background-size: cover;
+
+}
+table{
+    width: 500px;
+    padding: 20px;
+    background: transparent;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+    margin: 150px  auto;
+}
+.btn{
+    height: 32px;
+    font-size: 15px;
+    font-family: Montserrat;
+    padding: 0 20px 0 20px;
+    margin:10px;
+}
+
+.input{
+    width: 100%;
+    height: 42px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family: Montserrat;Indian Employee
+    padding: 0 20px 0 5px;
+    outline: none;
+}
+
+input{
+    height: 32px;
+    font-size: 15px;
+    font-family: Montserrat;
+    padding: 0 50px 0 50px;
+}
+.label{
+    width: 30%;
+}
+
+</style>
